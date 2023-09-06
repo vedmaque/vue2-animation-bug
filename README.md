@@ -1,24 +1,4 @@
-# vue-animation-bug2
+# Transition Group animation bug
 
-## Project setup
-```
-pnpm install
-```
-
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
-
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Description
+"Animation bug" should not be animated, it should stays in one place. But.
